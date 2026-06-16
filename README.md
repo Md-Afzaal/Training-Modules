@@ -12,16 +12,16 @@ The repository is organized week-wise and includes the questions, exercises, and
 Summer-Training-Modules/
 │
 ├── Week-1/
-│   └── Questions.md
+│   └── Week-1-Module.pdf
 │
 ├── Week-2/
-│   └── Questions.md
+│   └── Week-2-Module.pdf
 │
 ├── Week-3/
-│   └── Questions.md
+│   └── Week-3-Module.pdf
 │
 ├── Week-4/
-│   └── Questions.md
+│   └── Week-4-Module.pdf
 │
 └── ...
 ```
